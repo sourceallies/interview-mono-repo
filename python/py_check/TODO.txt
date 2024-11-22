@@ -1,0 +1,46 @@
+Vending Machine Problem
+
+1. Create vending machine
+    print out welcome message
+
+2. add item to inventory
+    internal storage
+    define item
+
+    test: add to inventory, 
+        test inventory count for item
+
+3. Purchase a product
+    input: money, product slot
+    return "not enough money" if the input money isn't enough
+
+    add money
+
+TODO:
+- Maybe add pylance
+- refactor tests setup
+
+### vending_machine.purchase_product(slot, money): (message: str, change: float)
+
+1. if they have more enough money
+  "here's a {name of the item}, enjoy!", some number
+2. if they have exactly enough money
+ "here's a {name of the item}, enjoy!", 0
+3. if they dont have enough money
+  "you need more money", 0
+
+
+Vending items data:
+Item : {
+    Slot: row, number
+    Type: what kind of item is it
+    Price: how much does it cost
+    Quantity: how many are in stock
+}
+
+# @dataclass
+# class User:
+#   name: str
+#   age: int
+#   email: str
+#   is_active: bool = True 
