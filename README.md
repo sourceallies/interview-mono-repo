@@ -19,7 +19,7 @@ Our pairing process typically consists of four steps:
 
 ## Meeting You
 
-You’ll meet with a recruiter through a call, virtual hangout, or even a coffee. You will connect and talk about your background, where you would like to grow your career, and what drew you to Source Allies. This conversation is to gain an understanding of initial alignment for both parties.
+You'll meet with a recruiter through a call, virtual hangout, or even a coffee. You will connect and talk about your background, where you would like to grow your career, and what drew you to Source Allies. This conversation is to gain an understanding of initial alignment for both parties.
 
 ## Self Evaluation
 
@@ -31,7 +31,7 @@ This is an algorithmic coding exercise via HackerRank to get a better glimpse of
 
 ## Pairing Session
 
-The purpose of this interview is to further gauge your technical ability and to get a sense of what it’s like to work with you. 
+The purpose of this interview is to further gauge your technical ability and to get a sense of what it's like to work with you. 
 
 We use a project to guide our discussion, but we don't have to finish the project. We only need to get far enough along to get a good sense of your technical ability.
 

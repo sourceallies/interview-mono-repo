@@ -1,0 +1,24 @@
+{
+	"name": "Typescript React",
+	"image": "mcr.microsoft.com/devcontainers/universal:2-focal",
+	"postCreateCommand": "cd typescript-vue && make init",
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"liveshare.allowGuestDebugControl": true,
+				"liveshare.allowGuestTaskControl": true,
+				"liveshare.languages.allowGuestCommandControl": true,
+				"liveshare.publishWorkspaceInfo": true,
+				"extensions.ignoreRecommendations": true,
+				"workbench.startupEditor": "readme"
+			},
+			"extensions": [
+				"ms-vsliveshare.vsliveshare",
+				"dbaeumer.vscode-eslint",
+				"esbenp.prettier-vscode",
+				"vue.volar",
+				"vitest.explorer"
+			]
+		}
+	}
+}
