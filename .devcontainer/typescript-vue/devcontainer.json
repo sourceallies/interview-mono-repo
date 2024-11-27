@@ -1,5 +1,5 @@
 {
-	"name": "Typescript React",
+	"name": "Typescript Vue",
 	"image": "mcr.microsoft.com/devcontainers/universal:2-focal",
 	"postCreateCommand": "cd typescript-vue && make init",
 	"customizations": {
